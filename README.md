@@ -571,8 +571,6 @@ Personalized Roadmap
 ![Roadmap](image/image5.png)
 
 
-## 🎥 Demo
 
-[▶️ Watch the Demo Video](video/demo.mp4)
 
 
